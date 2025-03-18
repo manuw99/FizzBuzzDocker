@@ -7,10 +7,7 @@ This project serves as a test run of a Flask-based API with a front-end interfac
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
-- [Docker](#docker)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
